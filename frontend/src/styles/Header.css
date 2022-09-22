@@ -1,0 +1,79 @@
+.logo{
+    height: auto;
+    width: 150px;
+  }
+  
+  .navbar{
+    height: 85px;
+    background-color: rgb(21, 137, 210) !important;
+    box-shadow: 2px black;
+    box-sizing: border-box;
+    margin-bottom: 0%;
+    z-index: 1;
+  }
+ 
+
+  #navbarNav{
+    background-color: rgb(21, 137, 210) !important;
+  }
+
+  .nav-link{
+    font-size: 18px;
+    font-weight: 500;
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    color: black;
+  }
+
+
+.nav-bar .dropdown-menu{
+	background-color: white;
+}
+
+.navbar-toggler-icon{
+  background-color: black !important;
+  color: white !important;
+}
+
+/* .header .btn {
+    color: black;
+    text-decoration: none;
+}
+
+.header .btn.focus, .btn:focus, .btn:hover {
+    color: black;
+    text-decoration: none;
+} */
+
+  .megamenu{
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+  }
+  
+  .megamenu>li {
+    padding: 10px 20px 15px 20px;
+  }
+  
+  .dropdown-toggle{
+    font-size: 22px;
+    font-weight: 400;
+  }
+
+  .rounded{
+    margin-top: 10px;
+  }
+  
+  /*for serch box*/
+  /* input[type="search"]{
+    height: 35px;
+    width: 300px !important;
+  }
+  
+  .border-box{
+    margin: 0%;
+    padding: 20px 12px 20px 8px;
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: #e5e5e5;
+  } */
